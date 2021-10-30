@@ -1,3 +1,13 @@
+ /*Nombre de la escuela: Universidad Tecnologica Metropolitana
+    Asignatura: Aplicaciones Web Orientadas a Servicios
+    Nombre del Maestro: Joel Ivan Chuc Uc
+    Nombre de la actividad: Actividad 1, Ejercicio 1: Resistencia
+    Nombre del alumno:Brahim Eduardo Aldana Chuc
+    Cuatrimestre: 4
+    Grupo: A
+    Parcial: 2
+    */
+
 using Microsoft.AspNetCore.Mvc;
 using Resist.Domian.Entities;
 using System;
