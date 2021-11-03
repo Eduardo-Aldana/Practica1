@@ -1,0 +1,7 @@
+C:\Users\52999\Videos\PRACTICA2_ALCOHOLEMIA\Alcoholi\obj\Debug\net5.0\Alcoholi.csproj.AssemblyReference.cache
+C:\Users\52999\Videos\PRACTICA2_ALCOHOLEMIA\Alcoholi\obj\Debug\net5.0\Alcoholi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52999\Videos\PRACTICA2_ALCOHOLEMIA\Alcoholi\obj\Debug\net5.0\Alcoholi.AssemblyInfoInputs.cache
+C:\Users\52999\Videos\PRACTICA2_ALCOHOLEMIA\Alcoholi\obj\Debug\net5.0\Alcoholi.AssemblyInfo.cs
+C:\Users\52999\Videos\PRACTICA2_ALCOHOLEMIA\Alcoholi\obj\Debug\net5.0\Alcoholi.csproj.CoreCompileInputs.cache
+C:\Users\52999\Videos\PRACTICA2_ALCOHOLEMIA\Alcoholi\obj\Debug\net5.0\Alcoholi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\52999\Videos\PRACTICA2_ALCOHOLEMIA\Alcoholi\obj\Debug\net5.0\Alcoholi.MvcApplicationPartsAssemblyInfo.cache
